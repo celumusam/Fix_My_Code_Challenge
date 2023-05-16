@@ -128,3 +128,4 @@ Arf, I have also the pagination to fix… I didn’t have time before my break t
 * GitHub repository: ``Fix_My_Code_Challenge``
 * Directory: ``0x01-challenge``
 * File: [react-blog](./react-blog/)
+#Author Jerome Udoh/ twitter #udohjerome #jubasstech
